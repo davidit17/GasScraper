@@ -7,7 +7,7 @@ source site : http://archive.energy.gov.il/Subjects/Fuel/Pages/GxmsMniFuelStatio
 ## This is how the source looks 
 ![source](source.JPG?raw=true "Title")
 
-## after going throw the table ans summerizing 
+## after going throw the table and summerizing 
 
 ![Gas List](Gas.JPG?raw=true "Title")
 
