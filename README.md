@@ -1,5 +1,6 @@
 # GasScraper
-Get The number of gas stations in israel by company using beautiful soup
+Get The number of gas stations in israel by company using beautiful soup 
+and show them on map using folium (version 2.0)
 
 
 source site : http://archive.energy.gov.il/Subjects/Fuel/Pages/GxmsMniFuelStations.aspx
@@ -14,3 +15,13 @@ source site : http://archive.energy.gov.il/Subjects/Fuel/Pages/GxmsMniFuelStatio
 ## bokhe
 
 ![Bokhe](bokhe.JPG?raw=true "Title")
+
+## folium 
+
+googlemaps api to gather location coordinates and folium to show them on map
+
+![folium](map1.JPG?raw=true "Title")
+
+with slicers
+
+![folium](map2.JPG?raw=true "Title")
