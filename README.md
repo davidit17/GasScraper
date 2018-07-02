@@ -6,11 +6,14 @@ and show them on map using folium (version 2.0)
 source site : http://archive.energy.gov.il/Subjects/Fuel/Pages/GxmsMniFuelStations.aspx
 
 ## This is how the source looks 
-![source](source.JPG?raw=true "Title")
+<p align="center"> 
+<img src="source.JPG">
+</p>
 
 ## after going throw the table and summerizing 
-
-![Gas List](Gas.JPG?raw=true "Title")
+<p align="center"> 
+<img src="Gas.JPG">
+</p>
 
 ## bokhe
 
