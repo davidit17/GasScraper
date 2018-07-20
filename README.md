@@ -10,7 +10,7 @@ source site : http://archive.energy.gov.il/Subjects/Fuel/Pages/GxmsMniFuelStatio
 <img src="source.JPG">
 </p>
 
-## after going throw the table and summerizing 
+## after going through the table and summerizing 
 <p align="center"> 
 <img src="Gas.JPG">
 </p>
